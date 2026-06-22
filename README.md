@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/anacodermisra/leetcode/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/anacodermisra/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/anacodermisra/leetcode/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/anacodermisra/leetcode/tree/master/0229-majority-element-ii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/anacodermisra/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/anacodermisra/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Two Pointers
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/anacodermisra/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/anacodermisra/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/anacodermisra/leetcode/tree/master/0229-majority-element-ii) |
 | [1833-maximum-ice-cream-bars](https://github.com/anacodermisra/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Dynamic Programming
 |  |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anacodermisra/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/anacodermisra/leetcode/tree/master/0229-majority-element-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/anacodermisra/leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## Divide and Conquer
 |  |
@@ -47,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anacodermisra/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/anacodermisra/leetcode/tree/master/0229-majority-element-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/anacodermisra/leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## Greedy
 |  |
