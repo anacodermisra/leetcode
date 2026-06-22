@@ -1,3 +1,4 @@
+#include <algorithm>
 class Solution {
 public:
     int maxNumberOfBalloons(string text) {
@@ -24,19 +25,9 @@ public:
                 n++;
             }
         }
-        
+        int count= min({b,a,l/2,o/2,n});
       
-        int count=0;
-        while(b>=1 && a>=1 && l>=2 && o>=2 && n>=1){
-            b--;
-            a--;
-            l--;
-            l--;
-            o--;
-            o--;
-            n--;
-            count++;
-        }
+       
         return count;
     }
 };
