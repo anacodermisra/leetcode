@@ -12,16 +12,16 @@ public:
             if(text[i]=='b'){
                 b++;
             }
-            if(text[i]=='a'){
+            else if(text[i]=='a'){
                 a++;
             }
-            if(text[i]=='l'){
+            else if(text[i]=='l'){
                 l++;
             }
-            if(text[i]=='o'){
+            else if(text[i]=='o'){
                 o++;
             }
-            if(text[i]=='n'){
+            else if(text[i]=='n'){
                 n++;
             }
         }
