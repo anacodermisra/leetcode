@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/anacodermisra/leetcode/tree/master/0229-majority-element-ii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/anacodermisra/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/anacodermisra/leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/anacodermisra/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anacodermisra/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/anacodermisra/leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/anacodermisra/leetcode/tree/master/0189-rotate-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/anacodermisra/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/anacodermisra/leetcode/tree/master/1189-maximum-number-of-balloons) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/anacodermisra/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
