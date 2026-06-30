@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/anacodermisra/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anacodermisra/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/anacodermisra/leetcode/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/anacodermisra/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/anacodermisra/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/anacodermisra/leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/anacodermisra/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/anacodermisra/leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/anacodermisra/leetcode/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
@@ -92,5 +94,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/anacodermisra/leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/anacodermisra/leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
