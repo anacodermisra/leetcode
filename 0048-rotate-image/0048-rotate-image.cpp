@@ -10,10 +10,11 @@ public:
         return matrix;
     }
     void rotate(vector<vector<int>>& matrix) {
+        int n= matrix.size();
         transpose(matrix);
-        //int row=matrix.size();
-        for (auto& row : matrix) {
-        std::reverse(row.begin(), row.end());
+
+        for (int i=0; i<n;i++ ) {
+        reverse(matrix[i].begin(),matrix[i].end());
     }
     }
 };
