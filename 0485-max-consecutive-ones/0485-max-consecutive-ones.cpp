@@ -8,8 +8,7 @@ public:
             if(nums[i]==1){
                 cnt++;  
             }
-            else{
-              
+            else{ 
             cnt=0;
             }
 
