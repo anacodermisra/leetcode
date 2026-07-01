@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/anacodermisra/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/anacodermisra/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/anacodermisra/leetcode/tree/master/0493-reverse-pairs) |
+| [0560-subarray-sum-equals-k](https://github.com/anacodermisra/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/anacodermisra/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/anacodermisra/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anacodermisra/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/anacodermisra/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/anacodermisra/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/anacodermisra/leetcode/tree/master/0229-majority-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/anacodermisra/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/anacodermisra/leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## Divide and Conquer
 |  |
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/anacodermisra/leetcode/tree/master/0493-reverse-pairs) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/anacodermisra/leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
