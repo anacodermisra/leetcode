@@ -9,18 +9,20 @@ public:
             int mid= low+(high-low)/2;
 
             
-            //left side sorted
+            //left side sorted 
              if(nums[mid]>=nums[low]){
+                //find min element from left and remove left side
                minimum=min(minimum,nums[low]);
                low=mid+1;
              }
             
             //right side sorted
             else{
+                //find min element from right and remove the right side
                 minimum=min(minimum,nums[mid]);
                 high=mid-1;
 
-                //target in right side
+                
                 
             }
         }
