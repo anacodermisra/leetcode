@@ -12,7 +12,7 @@ public:
         cnt++;
         }
         return cnt<=k;
-        return false;
+        
       
     }
     int splitArray(vector<int>& nums, int k) {
