@@ -40,9 +40,6 @@ public:
        int lb= lowerBound(nums, x);
        int ub= upperBound(nums, x)-1;
        if(lb ==n || nums[lb]!=x  ) return {-1,-1};
-              
-
-       
        
        return {lb,ub};
     }
