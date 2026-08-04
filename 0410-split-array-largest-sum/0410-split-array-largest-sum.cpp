@@ -12,8 +12,6 @@ public:
         cnt++;
         }
         return cnt<=k;
-        
-      
     }
     int splitArray(vector<int>& nums, int k) {
         int low=*max_element(nums.begin(),nums.end());
